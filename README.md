@@ -49,8 +49,6 @@
 | 📦 **API REST de Inventario** | API documentada con endpoints CRUD para gestión de productos | C#, Node.js, SQL |
 | 🏫 **Control de Asistencia Escolar** | Sistema de registro de asistencia para instituciones educativas | PHP, MySQL |
 
-> 🔎 Puedes ver el código fuente de cada proyecto directamente en mis repositorios fijados (*pinned*) más abajo en este perfil.
-
 <br>
 
 ### 📜 Certificaciones
