@@ -61,14 +61,6 @@
 
 <br>
 
-### 📈 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alarconv-dev&show_icons=true&theme=default&hide_title=false" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alarconv-dev&theme=default" alt="Racha de GitHub" height="165"/>
-</p>
-
-<br>
 
 ### 🤝 Conectemos
 
