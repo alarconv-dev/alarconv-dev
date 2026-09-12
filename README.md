@@ -14,7 +14,7 @@
 - 🌱 Actualmente aprendiendo y reforzando **React Native**, **Next.js** y **.NET / ASP.NET Core**
 - 🤖 Uso herramientas de IA (GitHub Copilot, ChatGPT, Claude) como parte de mi flujo de trabajo diario
 - 📫 Escríbeme a **alarconv7474@gmail.com**
-- 🌐 Mi portafolio: **[porfolio-web-zeta.vercel.app](https://porfolio-web-zeta.vercel.app/)**
+- 🌐 Mi portafolio: **[porfolio-web](https://porfolio-web-zeta.vercel.app/)**
 - 📍 Lima, Perú
 
 <br>
