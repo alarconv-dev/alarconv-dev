@@ -6,6 +6,7 @@
   Busco prácticas pre-profesionales en desarrollo de software, presencial en Lima Norte o remoto.
 </p>
 <br>
+
 ### Sobre mí
  
 - 🎓 Estudiante del último ciclo de **Desarrollo de Sistemas e Informática**
@@ -18,6 +19,7 @@
 - 🌐 Mi portafolio: **[porfolio-web](https://porfolio-web-zeta.vercel.app/)**
 - 📍 Lima Norte, Perú
 <br>
+
 ### Tecnologías y herramientas
  
 <p align="left">
@@ -37,6 +39,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <br>
+
 ### Proyectos destacados
  
 | Proyecto | Descripción | Tecnologías |
@@ -50,6 +53,7 @@
 | 🏫 [**Control de asistencia escolar**](https://github.com/alarconv-dev/proyecto-asistencia) | Sistema de registro de asistencia para instituciones educativas | PHP, MySQL, Bootstrap 5 |
  
 <br>
+
 ### Certificaciones
  
 - ✅ [JavaScript Fundamentals](https://coddy.tech/certifications/es/3iTw2u-javascript-Bi8cmJ)
