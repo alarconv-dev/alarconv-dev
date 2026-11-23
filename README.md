@@ -60,6 +60,7 @@
 - ✅ [Python Fundamentals](https://coddy.tech/certifications/es/3iTw2u-python-ZP9neU)
 - ✅ [Java Fundamentals](https://coddy.tech/certifications/es/3iTw2u-java-jx1zAL)
 <br>
+
 ### Conectemos
  
 <p align="left">
